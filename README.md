@@ -7,6 +7,7 @@ Backend: JSONPowerDB (NoSQL Database)
 ![Screenshot 2024-09-25 220840](https://github.com/user-attachments/assets/f6e5e111-585f-4355-938a-3dc556c0728e)
 ![Screenshot 2024-09-25 221221](https://github.com/user-attachments/assets/79a8c875-1930-4805-b6db-ea3d55eef93b)
 ![Screenshot 2024-09-25 221245](https://github.com/user-attachments/assets/abd3f32b-06ce-4284-a0a4-c67837275a14)
+this is my Dashboard currently
 ![Screenshot 2024-09-25 223101](https://github.com/user-attachments/assets/143c1fea-b358-48c7-acc6-a24713b85197)
 
 //Krishna
